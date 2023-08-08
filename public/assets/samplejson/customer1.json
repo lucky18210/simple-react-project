@@ -1,12 +1,12 @@
 {
 	"id": 1,
-	"name": "John Smith",
-	"email": "jsmith@test.com",
-	"phone": "123456789",
-	"city": "bangalore",
-	"state": "karnataka",
-	"country": "India",
-	"organization": "Company 1",
-	"jobProfile": "Software Developer",
-	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
+	"name": "美加子 笹田",
+	"email": "mikako@test.com",
+	"phone": "088-384-7169",
+	"city": "笹田市",
+	"Street": "浜田町津田9-5-10",
+	"country": "日本",
+	"organization": "株式会社 1",
+	"jobProfile": "フロントエンドエンジニア",
+	"additionalInfo": "これまでに多くの製品を購入した経験があり、価値の高い顧客"
 }

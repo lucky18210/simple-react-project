@@ -1,12 +1,12 @@
 {
 	"id": 2,
-	"name": "ABCD",
+	"name": "江古田 明美",
 	"email": "abcd@test.com",
-	"phone": "987654321",
-	"city": "Mangalore",
-	"state": "karnataka",
-	"country": "India",
-	"organization": "Company 2",
-	"jobProfile": "Software Developer",
+	"phone": "090-3023-8738",
+	"city": "藤本市",
+	"Street": "中村町松本3-4-10",
+	"country": "日本",
+	"organization": "株式会社 2",
+	"jobProfile": "バクエンドエンジニア",
 	"additionalInfo": "Buys Products Rarely"
 }
